@@ -23,8 +23,7 @@ The code features functions for token minting and burning, as specified in the a
 
 ## 🤍 Authors
 
-* NAME*
-* Alok Kumar Nirmalkar
+* NAME- Alok Kumar Nirmalkar
 
 ## 📄 License
 
